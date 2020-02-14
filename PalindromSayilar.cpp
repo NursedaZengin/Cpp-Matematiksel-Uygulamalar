@@ -1,4 +1,9 @@
-	int sayi,b1,b2,b3,b4,b5,yedek;
+#include <iostream.h>
+#include <conio.h>
+
+main()
+{
+  	int sayi,b1,b2,b3,b4,b5,yedek;
         for(;;)
         {
             do
@@ -27,3 +32,4 @@
             }
         }
         getch();
+}	
