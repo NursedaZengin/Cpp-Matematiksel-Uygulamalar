@@ -31,5 +31,5 @@ main()
                 cout<<sayi<<" sayisi Palindrom sayi degildir.\n\n";
             }
         }
-        getch();
+        getch()
 }
