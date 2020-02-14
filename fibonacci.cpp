@@ -9,7 +9,7 @@ main()
        //f[2]=1
        int n;
        int fib[50]={0,1};
-       cout<<"Fibonacci dizisi kac tane yazilsin: ";
+       cout<<"Fibonacci dizisinden kac tane sayi yazilsin: ";
        cin>>n;
        for (int i = 2; i < n; i++)
        {
